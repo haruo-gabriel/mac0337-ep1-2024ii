@@ -1,9 +1,0 @@
-Nome: Gabriel Haruo Hanai Takeuchi
-NUSP: 13671636
-
-Essa entrega (parte 1) é composta pelos arquivos:
-
-- README
-- sintetizador~.pd (obrigatório)
-- teste.pd, onde estão as mandadas de mensagens, controles do sintetizador e input pelo teclado do computador (a tecla v corresponde a 440Hz)
-
